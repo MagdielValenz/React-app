@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Explora&display=swap');
+
+:root{
+    --b1:rgb(2, 1, 26);
+    --b2:rgb(2, 1, 26);
+    --b3:rgb(2, 1, 26);
+}
+img{
+    height: auto;
+}
+
+#caja-tarjetas{
+    width: 100%;
+    height: 600px;
+  
+}
+.pagina-principal{
+    background-color: rgb(255, 253, 204);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background:linear-gradient(225deg, var(--b1) 5%, var(--b2) 40%,var(--b2) 60%,var(--b3) 100% );
+}
+.color-nav{
+    background-color: rgb(2, 1, 26);
+    z-index: 9999;
+    min-height: 100px;
+    position: fixed;
+    opacity: 1;
+    transition: 0.7s ease-in-out all;
+    width: 100%;
+    
+}
+.color-nav.visib{
+    opacity: 0;
+}
+.prueba1.visib{
+    opacity: 0;
+}
+.carousel{
+    margin-top: 4px;
+    width: 100%;
+}
+#img-carousel{
+    margin-left: 23%;
+}
+#logo-1{
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+#tcolor{
+    color: wheat;
+    
+}
+#basic-nav-dropdown{
+    color: wheat;
+}
+#cuerpo{
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-wrap: wrap;
+    height: 1000px;
+    width: 100%;
+}
+#alerta{
+    width: 400px;
+    height: 300px;
+    background-color: red;
+    border-radius: 20px;
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    animation: alerta 0.3s linear alternate;
+    
+}
+
+.caja{
+    max-width: 20rem;
+    min-width: 200px;
+    height: auto;
+    opacity: 0;
+    
+    transform: scale(0.9) translateX(300px);
+    transition: 0.9s ease-in-out all;
+}
+.caja.visible{
+    
+    opacity: 1;
+    transform: scale(1) translateX(0);
+}
+@keyframes alerta {
+    0%{
+        opacity: 0;
+    }
+    15%{
+        opacity: 0.15;
+    }
+    25%{
+        opacity: 0.25;
+    }
+    35%{
+        opacity: 0.35;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    55%{
+        opacity: 0.55;
+    }
+    75%{
+        opacity: 0.75;
+    }
+    85%{
+        opacity: 0.85;
+    }
+    100%{
+        opacity: 1;
+    }
+}
