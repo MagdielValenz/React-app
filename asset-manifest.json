@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.1e31efbe.css",
+    "main.js": "/React-app/static/js/main.0fa3757d.js",
+    "static/media/image-1.jpg": "/React-app/static/media/image-1.417ab6661a19fad3d046.jpg",
+    "static/media/chinesseR2.jpg": "/React-app/static/media/chinesseR2.5848bc97372bff8f30b0.jpg",
+    "index.html": "/React-app/index.html",
+    "main.1e31efbe.css.map": "/React-app/static/css/main.1e31efbe.css.map",
+    "main.0fa3757d.js.map": "/React-app/static/js/main.0fa3757d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e31efbe.css",
+    "static/js/main.0fa3757d.js"
+  ]
+}
