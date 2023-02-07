@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-app/static/css/main.1128beda.css",
-    "main.js": "/React-app/static/js/main.9091dc93.js",
+    "main.css": "/React-app/static/css/main.5ef088d1.css",
+    "main.js": "/React-app/static/js/main.da7be646.js",
     "static/media/image-1.jpg": "/React-app/static/media/image-1.417ab6661a19fad3d046.jpg",
     "static/media/chinesseR2.jpg": "/React-app/static/media/chinesseR2.5848bc97372bff8f30b0.jpg",
     "static/media/donoshop.jpg": "/React-app/static/media/donoshop.08778a95f8b7e6e7bca8.jpg",
     "static/media/b1.png": "/React-app/static/media/b1.1d6bc5d405f1cd78fd7e.png",
-    "static/media/chinesseR1.webp": "/React-app/static/media/chinesseR1.762e71b91aa339221888.webp",
     "static/media/pagina1.webp": "/React-app/static/media/pagina1.a4060b5cc8994fce1af6.webp",
     "static/media/gimbap.jpg": "/React-app/static/media/gimbap.322131dc6ee3edcbf20b.jpg",
     "static/media/kimchi.jpg": "/React-app/static/media/kimchi.04d7a09ed7128140afea.jpg",
+    "static/media/online-shopping.png": "/React-app/static/media/online-shopping.e2d6dfb6159f014f6527.png",
     "static/media/pagina2.jpg": "/React-app/static/media/pagina2.3fb2408cf218c4f35bc7.jpg",
     "static/media/pagina3.jpg": "/React-app/static/media/pagina3.2a291843fbad873ed738.jpg",
     "index.html": "/React-app/index.html",
-    "main.1128beda.css.map": "/React-app/static/css/main.1128beda.css.map",
-    "main.9091dc93.js.map": "/React-app/static/js/main.9091dc93.js.map"
+    "main.5ef088d1.css.map": "/React-app/static/css/main.5ef088d1.css.map",
+    "main.da7be646.js.map": "/React-app/static/js/main.da7be646.js.map"
   },
   "entrypoints": [
-    "static/css/main.1128beda.css",
-    "static/js/main.9091dc93.js"
+    "static/css/main.5ef088d1.css",
+    "static/js/main.da7be646.js"
   ]
 }
