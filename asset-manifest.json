@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-app/static/css/main.5ef088d1.css",
-    "main.js": "/React-app/static/js/main.da7be646.js",
+    "main.css": "/React-app/static/css/main.86e8193a.css",
+    "main.js": "/React-app/static/js/main.d628a0bc.js",
     "static/media/image-1.jpg": "/React-app/static/media/image-1.417ab6661a19fad3d046.jpg",
     "static/media/chinesseR2.jpg": "/React-app/static/media/chinesseR2.5848bc97372bff8f30b0.jpg",
     "static/media/donoshop.jpg": "/React-app/static/media/donoshop.08778a95f8b7e6e7bca8.jpg",
@@ -13,11 +13,11 @@
     "static/media/pagina2.jpg": "/React-app/static/media/pagina2.3fb2408cf218c4f35bc7.jpg",
     "static/media/pagina3.jpg": "/React-app/static/media/pagina3.2a291843fbad873ed738.jpg",
     "index.html": "/React-app/index.html",
-    "main.5ef088d1.css.map": "/React-app/static/css/main.5ef088d1.css.map",
-    "main.da7be646.js.map": "/React-app/static/js/main.da7be646.js.map"
+    "main.86e8193a.css.map": "/React-app/static/css/main.86e8193a.css.map",
+    "main.d628a0bc.js.map": "/React-app/static/js/main.d628a0bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ef088d1.css",
-    "static/js/main.da7be646.js"
+    "static/css/main.86e8193a.css",
+    "static/js/main.d628a0bc.js"
   ]
 }
