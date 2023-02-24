@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/React-app/static/css/main.86e8193a.css",
-    "main.js": "/React-app/static/js/main.d628a0bc.js",
+    "main.css": "/React-app/static/css/main.676a8d1b.css",
+    "main.js": "/React-app/static/js/main.daf31e58.js",
     "static/media/image-1.jpg": "/React-app/static/media/image-1.417ab6661a19fad3d046.jpg",
     "static/media/chinesseR2.jpg": "/React-app/static/media/chinesseR2.5848bc97372bff8f30b0.jpg",
     "static/media/donoshop.jpg": "/React-app/static/media/donoshop.08778a95f8b7e6e7bca8.jpg",
     "static/media/b1.png": "/React-app/static/media/b1.1d6bc5d405f1cd78fd7e.png",
+    "static/media/corean_food.jpeg": "/React-app/static/media/corean_food.aeef46dfe6b72a246af6.jpeg",
     "static/media/pagina1.webp": "/React-app/static/media/pagina1.a4060b5cc8994fce1af6.webp",
     "static/media/gimbap.jpg": "/React-app/static/media/gimbap.322131dc6ee3edcbf20b.jpg",
     "static/media/kimchi.jpg": "/React-app/static/media/kimchi.04d7a09ed7128140afea.jpg",
@@ -13,11 +14,11 @@
     "static/media/pagina2.jpg": "/React-app/static/media/pagina2.3fb2408cf218c4f35bc7.jpg",
     "static/media/pagina3.jpg": "/React-app/static/media/pagina3.2a291843fbad873ed738.jpg",
     "index.html": "/React-app/index.html",
-    "main.86e8193a.css.map": "/React-app/static/css/main.86e8193a.css.map",
-    "main.d628a0bc.js.map": "/React-app/static/js/main.d628a0bc.js.map"
+    "main.676a8d1b.css.map": "/React-app/static/css/main.676a8d1b.css.map",
+    "main.daf31e58.js.map": "/React-app/static/js/main.daf31e58.js.map"
   },
   "entrypoints": [
-    "static/css/main.86e8193a.css",
-    "static/js/main.d628a0bc.js"
+    "static/css/main.676a8d1b.css",
+    "static/js/main.daf31e58.js"
   ]
 }
